@@ -185,7 +185,7 @@ html,body{
     }
     
     #arrow{
-        top: 57%;
+        top: 54%;
         left: 52%;
         padding: 10px;
         transform: translate(-50%, -50%)rotate(90deg);
